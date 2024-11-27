@@ -1,0 +1,122 @@
+[
+  {
+    "PesoAnimal": "0,00Kg<=1,00Kg",
+    "Medicamento": "Prednisona",
+    "QuantidadeDeComprimidos": 0.5,
+    "CapsulaComprimido": "comprimido",
+    "Concentracao": "5mg",
+    "Dose": "1/4",
+    "Dias": 2,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "1,01Kg-1,50Kg",
+    "Medicamento": "Prednisona",
+    "QuantidadeDeComprimidos": 0.5,
+    "CapsulaComprimido": "comprimido",
+    "Concentracao": "5mg",
+    "Dose": "1/4",
+    "Dias": 2,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "1,51Kg-2,00Kg",
+    "Medicamento": "Prednisona",
+    "QuantidadeDeComprimidos": 0.5,
+    "CapsulaComprimido": "comprimido",
+    "Concentracao": "5mg",
+    "Dose": "1/4",
+    "Dias": 2,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "2,01Kg-2,50Kg",
+    "Medicamento": "Dexametasona",
+    "QuantidadeDeComprimidos": 0.5,
+    "CapsulaComprimido": "comprimido",
+    "Concentracao": "4mg",
+    "Dose": "1/4",
+    "Dias": 2,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "2,51Kg-3,00Kg",
+    "Medicamento": "Dexametasona",
+    "QuantidadeDeComprimidos": 0.5,
+    "CapsulaComprimido": "comprimido",
+    "Concentracao": "4mg",
+    "Dose": "1/4",
+    "Dias": 2,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "3,01Kg-3,50Kg",
+    "Medicamento": "Dexametasona",
+    "QuantidadeDeComprimidos": 0.5,
+    "CapsulaComprimido": "comprimido",
+    "Concentracao": "4mg",
+    "Dose": "1/4",
+    "Dias": 2,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "3,51Kg-4,00Kg",
+    "Medicamento": "Dexametasona",
+    "QuantidadeDeComprimidos": 0.5,
+    "CapsulaComprimido": "comprimido",
+    "Concentracao": "4mg",
+    "Dose": "1/4",
+    "Dias": 2,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "4,01Kg-4,50Kg",
+    "Medicamento": "Meloxicam",
+    "QuantidadeDeComprimidos": 0.5,
+    "CapsulaComprimido": "comprimido",
+    "Concentracao": "2mg",
+    "Dose": "1/4",
+    "Dias": 2,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "4,51Kg-5,00Kg",
+    "Medicamento": "Meloxicam",
+    "QuantidadeDeComprimidos": 0.5,
+    "CapsulaComprimido": "comprimido",
+    "Concentracao": "2mg",
+    "Dose": "1/4",
+    "Dias": 2,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "5,01Kg-5,50Kg",
+    "Medicamento": "Meloxicam",
+    "QuantidadeDeComprimidos": 0.5,
+    "CapsulaComprimido": "comprimido",
+    "Concentracao": "2mg",
+    "Dose": "1/4",
+    "Dias": 2,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "6,51Kg-7,00Kg",
+    "Medicamento": "Meloxicam",
+    "QuantidadeDeComprimidos": 0.5,
+    "CapsulaComprimido": "comprimido",
+    "Concentracao": "2mg",
+    "Dose": "1/4",
+    "Dias": 2,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "7,01Kg-7,50Kg",
+    "Medicamento": "Meloxicam",
+    "QuantidadeDeComprimidos": 1,
+    "CapsulaComprimido": "comprimido",
+    "Concentracao": "2mg",
+    "Dose": "1/2",
+    "Dias": 2,
+    "Uso": "24h/24h"
+  }
+]

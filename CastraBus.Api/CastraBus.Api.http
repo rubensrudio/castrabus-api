@@ -1,0 +1,6 @@
+@CastraBus.Api_HostAddress = http://localhost:5286
+
+GET {{CastraBus.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

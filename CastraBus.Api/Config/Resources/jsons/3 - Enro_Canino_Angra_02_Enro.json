@@ -1,0 +1,222 @@
+[
+  {
+    "PesoAnimal": "0,00Kg<=3,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 1,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "50mg",
+    "Dose": "1/4",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "3,01Kg-5,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 1,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "50mg",
+    "Dose": "1/4",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "5,01Kg-7,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 2,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "50mg",
+    "Dose": "1/2",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "7,01Kg-9,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 2,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "50mg",
+    "Dose": "1/2",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "9,01Kg-11,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 1,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1/4",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "11,01Kg-13,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 1,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1/4",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "13,01Kg-15,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 1,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1/4",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "15,01Kg-17,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 2,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1/2",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "17,01Kg-19,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 2,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1/2",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "19,01Kg-21,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 2,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1/2",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "21,01Kg-23,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 2,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1/2",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "23,01Kg-25,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 2,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1/2",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "25,01Kg-27,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 2,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1/2",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "27,01Kg-29,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 2,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1/2",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "29,01Kg-31,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 2,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1/2",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "31,01Kg-33,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 4,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "33,01Kg-35,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 4,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "35,01Kg-37,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 4,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "37,01Kg-39,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 4,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "39,01Kg-41,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 4,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "41,01Kg-50,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 4,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  },
+  {
+    "PesoAnimal": "50,01Kg-60,00Kg",
+    "Medicamento": "Enrofloxacino",
+    "QuantidadeDeComprimidos": 4,
+    "CapsulaComprimido": "comprimidos",
+    "Concentracao": "150mg",
+    "Dose": "1",
+    "Dias": 4,
+    "Uso": "24h/24h"
+  }
+]
